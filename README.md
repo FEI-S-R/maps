@@ -7,4 +7,4 @@ DexterityBox1 = Box
 DexterityBox2 = Box2  
 DexterityBox3 = Box3  
 DexterityRails = RailsW  
-O resto dos modelos feitos no blender, continuam com o mesmo nome
+Os outros modelos desenvolvidos no blender, continuam com os mesmos nomes.
