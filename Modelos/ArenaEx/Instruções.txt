@@ -1,0 +1,5 @@
+1 - execute o comando "ign gazebo [Modelo/Arena].sdf"
+2 - Abra outro terminal e execute o comando "ign topic -e -t /keyboard/keypress"
+3 - Após executar ambos, na simulação, ir nos 3 pontos e procurar/digitar "Key Publisher" e selecionar
+4 - aperte em play
+    4.1 - w = frente, a = esquerda, s = trás, d = direita, x = freio/parar.
