@@ -9,7 +9,7 @@ DexterityBox3 = Box3
 DexterityRails = RailsW  
 Os outros modelos desenvolvidos no Blender, continuam com os mesmos nomes.
 
-Como utilizar comandos no Robô
+## Como utilizar comandos no Robô
 ```
 1 - execute o comando "ign gazebo [Modelo/Arena].sdf"
 2 - Abra outro terminal e execute o comando "ign topic -e -t /keyboard/keypress"
